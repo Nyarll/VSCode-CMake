@@ -21,7 +21,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\bin\\execute.exe"
+                "${fileDirname}\\bin\\debug\\execute.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"
